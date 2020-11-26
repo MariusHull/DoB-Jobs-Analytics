@@ -5,9 +5,10 @@ Organizing and tracking the remaining tasks to complete the project. Expected de
 ## Tasks to do for the Friday 11/27 - 11pm meeting
 
 - [ ] Perfect the data cleaning process : **Marius**
-    - [ ] Reprocess dummy variables
-    - [ ] Merge the two cleaning pipelines together
+    - [x] Reprocess dummy variables
+    - [X] Merge the two cleaning pipelines together
     - [x] Remove the `DOBRunDate` column
+    - [ ] Add columns to adjust the price based on inflation
 
 - [ ] Continue analysis on price prediction :
     - [ ] Find a way to split training/test set without time-related biases
